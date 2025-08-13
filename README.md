@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Siddharth Ahir</h1>
 <p align="center">
-  Junior Full‑Stack Developer · Django · React · Node · Postgres · Supabase  
-  <br/>Berlin, Germany · he/him
+  Junior Full‑Stack Developer · Django · React · Node · Postgres · Supabase<br/>
+  Berlin, Germany · he/him
 </p>
 
 <p align="center">
@@ -10,12 +10,14 @@
   <a href="https://www.linkedin.com/in/siddharth-ahir-798754262/" target="_blank">LinkedIn</a>
 </p>
 
-👤  About me
+<p align="center"><b>I’m not saying my GitHub is the best you’ll see today—just that it’s the one you’ll remember.</b></p>
+
+## 👤 About me
 
 I build responsive, data-driven web apps end‑to‑end, with REST APIs, auth, and clean UIs. I like fast iteration: ship → test → measure → improve.  
 MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑time from 01/2026.
 
-👨‍💻 Technologies I work with
+## 👨‍💻 Technologies I work with
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -33,7 +35,7 @@ MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑ti
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
-💡 What I'm learning now
+## 💡 What I'm learning now
 
 - LLM apps: prompt engineering, RAG pipelines, and offline evaluation of retrieval quality  
 - Backend APIs: FastAPI + Django for async inference, caching, and rate limiting  
@@ -42,11 +44,11 @@ MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑ti
 - CI/CD & Ops: Dockerized builds, GitHub Actions with test gates, and zero‑downtime deploys  
 - Testing & observability: PyTest/Jest coverage, structured logging, and basic tracing/metrics
 
-🚧 Ongoing
+## 🚧 Ongoing
 
-- 🚧 📊 Game KPI Dashboard — Server‑side filters and sub‑second charts on ~5k rows using React, Node, and Supabase with cached APIs. [Repo →](https://github.com/sidddharthhahir/Dashboard)                                     
+- 🚧 📊 Game KPI Dashboard — Server‑side filters and sub‑second charts on ~5k rows using React, Node, and Supabase with cached APIs. [Repo →](https://github.com/sidddharthhahir/Dashboard)
 - 🚧 🎬 Movie Database — TMDB‑powered browsing with ML‑explained recommendations (SHAP) on Django + Supabase; ~120 ms cached rec fetch. [Repo →](https://github.com/sidddharthhahir/MovieDatabase)
-                                       
-⚡ Quote
 
-> "The best engineers don’t write perfect code. They write testable code — perfectly."
+## ⚡ Quote
+
+"The best engineers don’t write perfect code. They write testable code — perfectly."
