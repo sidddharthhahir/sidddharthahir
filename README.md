@@ -64,7 +64,7 @@ MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑ti
 
 ## Fun quote
 
-> “The best way to predict the future is to create it.” — Peter Drucker
+> "The best engineers don’t write perfect code. They write testable code — perfectly."
 
 <!-- Optional: profile stats similar to your colleague -->
 <img src="https://github-profile-trophy.vercel.app/?username=sidddharthhahir&theme=onestar&margin-w=10" />
