@@ -42,10 +42,12 @@ MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑ti
 - CI/CD & Ops: Dockerized builds, GitHub Actions with test gates, and zero‑downtime deploys  
 - Testing & observability: PyTest/Jest coverage, structured logging, and basic tracing/metrics
 
-## Featured projects
+### Ongoing
 
-- Personal Task Manager (Django, MySQL): authenticated tasks with due dates and real‑time AJAX updates.  
-  Repo: https://github.com/sidddharthhahir/personal-task-manager
+- 🚧 📊 Game KPI Dashboard — Server‑side filters and sub‑second charts on ~5k rows using React, Node, and Supabase with cached APIs. [Repo →](https://github.com/sidddharthhahir/Dashboard)
+- ![status](https://img.shields.io/badge/status-in%20progress-orange)
+- 🚧 🎬 Movie Database — TMDB‑powered browsing with ML‑explained recommendations (SHAP) on Django + Supabase; ~120 ms cached rec fetch. [Repo →](https://github.com/sidddharthhahir/MovieDatabase)
+- ![status](https://img.shields.io/badge/status-in%20progress-orange)
 
 > Upcoming (from my MSc & portfolio): Game KPI Dashboard (React/Node/Supabase), Movie Database (Django/Supabase/TMDB), Personal Finance (Django/Chart.js), Recipe Manager (Next.js/Prisma/Postgres).
 
