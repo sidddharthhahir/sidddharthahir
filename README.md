@@ -35,9 +35,12 @@ MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑ti
 
 ## What I'm learning now
 
-- Tuning Postgres indexes and caching for sub‑second APIs  
-- CI pipelines (GitHub Actions) for tests and deploys  
-- Better DX with Prisma/ORMs and query optimization
+- LLM apps: prompt engineering, RAG pipelines, and offline evaluation of retrieval quality  
+- Backend APIs: FastAPI + Django for async inference, caching, and rate limiting  
+- Vector + keyword search: embeddings, hybrid search (BM25 + vectors), and re‑ranking  
+- Postgres/Supabase: indexing, partitions, RLS policies, and query‑plan tuning  
+- CI/CD & Ops: Dockerized builds, GitHub Actions with test gates, and zero‑downtime deploys  
+- Testing & observability: PyTest/Jest coverage, structured logging, and basic tracing/metrics
 
 ## Featured projects
 
@@ -62,7 +65,7 @@ MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑ti
 - Portfolio: <a href="https://sid-portfolio.lovable.app/" target="_blank">sid-portfolio.lovable.app</a>  
 - LinkedIn: <a href="https://www.linkedin.com/in/siddharth-ahir-798754262/" target="_blank">@siddharth-ahir-798754262</a>
 
-## Fun quote
+## quote
 
 > "The best engineers don’t write perfect code. They write testable code — perfectly."
 
