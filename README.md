@@ -44,16 +44,8 @@ MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑ti
 
 ### Ongoing
 
-- 🚧 📊 Game KPI Dashboard — Server‑side filters and sub‑second charts on ~5k rows using React, Node, and Supabase with cached APIs. [Repo →](https://github.com/sidddharthhahir/Dashboard) ![status](https://img.shields.io/badge/status-in%20progress-orange)
-- 🚧 🎬 Movie Database — TMDB‑powered browsing with ML‑explained recommendations (SHAP) on Django + Supabase; ~120 ms cached rec fetch. [Repo →](https://github.com/sidddharthhahir/MovieDatabase) ![status](https://img.shields.io/badge/status-in%20progress-orange)
-
-> Upcoming (from my MSc & portfolio): Game KPI Dashboard (React/Node/Supabase), Movie Database (Django/Supabase/TMDB), Personal Finance (Django/Chart.js), Recipe Manager (Next.js/Prisma/Postgres).
-
-## Let’s connect
-
-- Email: <a href="mailto:sidahir25820@gmail.com">sidahir25820@gmail.com</a>  
-- Portfolio: <a href="https://sid-portfolio.lovable.app/" target="_blank">sid-portfolio.lovable.app</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/siddharth-ahir-798754262/" target="_blank">@siddharth-ahir-798754262</a>
+- 🚧 📊 Game KPI Dashboard — Server‑side filters and sub‑second charts on ~5k rows using React, Node, and Supabase with cached APIs. [Repo →](https://github.com/sidddharthhahir/Dashboard)                                         ![status](https://img.shields.io/badge/status-in%20progress-orange)
+- 🚧 🎬 Movie Database — TMDB‑powered browsing with ML‑explained recommendations (SHAP) on Django + Supabase; ~120 ms cached rec fetch. [Repo →](https://github.com/sidddharthhahir/MovieDatabase)                                     ![status](https://img.shields.io/badge/status-in%20progress-orange)
 
 ## quote
 
