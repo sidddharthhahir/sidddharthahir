@@ -46,16 +46,6 @@ MSc CS student (IU, Berlin). Work authorization: DE (Student, 20h/wk), Full‑ti
 
 - Personal Task Manager (Django, MySQL): authenticated tasks with due dates and real‑time AJAX updates.  
   Repo: https://github.com/sidddharthhahir/personal-task-manager
-- image‑to‑pdf (Python): turn images into a single PDF from the CLI/app.  
-  Repo: https://github.com/sidddharthhahir/image-to-pdf
-- Robo‑Voice (Python): simple text‑to‑speech utility.  
-  Repo: https://github.com/sidddharthhahir/Robo-Voice
-- Weather (Python): weather info via API with a simple UI.  
-  Repo: https://github.com/sidddharthhahir/Weather
-- Programming‑with‑Python: assorted Python programs and exercises.  
-  Repo: https://github.com/sidddharthhahir/Programming-with-Python
-- Annoying‑Or‑Prank (Python): small fun project.  
-  Repo: https://github.com/sidddharthhahir/Annoying-Or-Prank
 
 > Upcoming (from my MSc & portfolio): Game KPI Dashboard (React/Node/Supabase), Movie Database (Django/Supabase/TMDB), Personal Finance (Django/Chart.js), Recipe Manager (Next.js/Prisma/Postgres).
 
